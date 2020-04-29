@@ -1,4 +1,4 @@
-There are 4 types of testing, one for each level and each with their own test plan
+﻿There are 4 types of testing, one for each level and each with their own test plan
 > Unit testing
 	execution of a complete class, routine or small program that has been written by a single programmer or team of programmers, which is tested in isolation from the more complete system.
 	tests smallest components (code)
@@ -21,3 +21,19 @@ Questions_
 - Integration testing is testing multiple parts of the software together to check of compatability issues and conflicts.
 - it is simulated 
 - It can be both types.
+
+updated by 30_samuel
+What is system Testing?
+the execution of the software in its final configuration, including integration with other software and hardware systems.
+	tests for security, performance, resource loss, timing problems, and other issues
+System Testing is conducted by _____testers_________
+It is type of (whitebox testing)
+
+What is acceptance Testing?
+Beta Testing is the equivalent of Acceptance testing as the final end-users who will buy the game are involved in the testing.
+	evaluate and validate that the system’s functionality meets the customer’s requirements, standards and business needs before the final delivery.
+Acceptance Testing is conducted by  customers and end-users. _____________
+It is type of (blackbox)
+
+
+
